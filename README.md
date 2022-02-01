@@ -1,4 +1,5 @@
-# dio-desafio-github
+# DIO / DESAFIO / GITHUB
+repositório para o desafio da DIO
 
 ## LINKS UTEIS
-# https://www.markdownguide.org/
+[MARKDOWN GUIDE](https://www.markdownguide.org/)
