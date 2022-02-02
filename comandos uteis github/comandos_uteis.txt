@@ -1,0 +1,14 @@
+#git status
+verifica o status do repositório
+
+#cd "nome da pasta"
+adentra à pasta onde os arquivos serão salvos
+
+#git commit -m "texto"
+insere um texto com a descrição do que foi feito no arquivo para rastreabilidade
+
+#git add .
+adc os novos itens ao repositório
+
+#git push origin main
+para upar seu repositório local até o github
